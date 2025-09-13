@@ -16,22 +16,25 @@ The goal is to provide insights into Netflix’s library growth, content distrib
 ### 1️⃣ Movies vs TV Shows
 Shows the proportion of movies and TV shows in Netflix’s library.  
 
-![Movies vs TV Shows](1st.png)
+![Movies vs TV Shows](Movies_vs_t]Tvshows.png)
 
 ### 2️⃣ Top 10 Content-Producing Countries
 Highlights which countries contribute the most content.  
 
-![Top Countries](4th.png)
+![Top Countries](Top_countries.png)
 
 ### 3️⃣ Content Growth Trend
 Tracks the number of releases added each year.  
 
-![Content Growth](2nd.png)
+![Content Growth](Year_Wise_Content_Growth.png)
 
 ### 4️⃣ Most Common Netflix Genres
 Shows the most frequently listed genres.  
 
-![Popular Genres](5th.png)
+![Popular Genres](Top_Genre.png)
+
+### 5️⃣ Dashboard 
+![dashboard](dashboard.png)
 
 
 ## 🛠 Tools & Technologies
